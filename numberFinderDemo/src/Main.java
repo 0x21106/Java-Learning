@@ -5,12 +5,15 @@ public class Main {
         int search = 5;
         for(int number : numbers) {
             if(number == search) {
-                System.out.println(search + " Sayisi dizi icinde bulunuyor.");
+                log(search + " Sayisi dizi icinde bulunuyor.");
                 break;
             } else {
-                System.out.println(search + " Sayisi dizi icinde bulunmuyor.");
+                log(search + " Sayisi dizi icinde bulunmuyor.");
                 break;
             }
         }
+    }
+    public static void log(String message) {
+        System.out.println(message);
     }
 }
