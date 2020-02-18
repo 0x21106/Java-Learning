@@ -1,18 +1,41 @@
 public class Product {
+
+    public Product(int id, String name, String description, double price, int stockAmount) {
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.price = price;
+        this.stockAmount = stockAmount;
+        this.modelNumber = name.substring(0, 1) + id;
+    }
+
     private int id;
     private String name;
     private String description;
     private double price;
     private int stockAmount;
+    private String modelNumber;
 
 
-    public void add(int _id, String _name, String _description, double _price, int _stockAmount) {
-        id = _id;
-        name = _name;
-        description = _description;
-        price = _price;
-        stockAmount = _stockAmount;
-        System.out.println(_name + " : " + _id + " id numarası ile kayıt edildi.");
+//    Getter
+    public String getName() {
+        return name;
+    }
+
+    public String getDescription() {
+        return this.description;
+    }
+
+    public double getPrice() {
+        return this.price;
+    }
+
+    public int getStockAmount() {
+        return this.stockAmount;
+    }
+
+    public String getModelNumber() {
+        return this.modelNumber;
     }
 
 

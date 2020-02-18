@@ -1,12 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        Product product = new Product();
+        Product product = new Product(1, "Acer Nitro 5", "Gaming Notebook", 3500, 10);
 
-//        ProductManager productManager = new ProductManager();
+        System.out.println(product.getName() + " eklendi. id numarasi " + product.getModelNumber());
 
 
-        product.add(1, "Acer Nitro 5", "Oyuncu Laptopu", 5000, 3);
 
     }
 }
