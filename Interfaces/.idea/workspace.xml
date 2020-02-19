@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0550d873-71ca-4b22-a01b-7b237003802b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ICustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MySqlCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OracleCustomerDal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0550d873-71ca-4b22-a01b-7b237003802b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582119204764</updated>
-      <workItem from="1582119208321" duration="3209000" />
+      <workItem from="1582119208321" duration="3224000" />
     </task>
     <servers />
   </component>
@@ -83,22 +75,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582121986043" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582123140233">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582125892312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582123140233" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582123140233">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582125892312" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582125892311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582123140233" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582123140232">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582125892311" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582125892311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582123140232" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582123140233">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582125892311" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582125892312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582123140233" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582125892312" />
+    <state x="65" y="0" key="new project wizard" timestamp="1582125890712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582125890712" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1582122423891">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
